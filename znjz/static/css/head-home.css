@@ -1,0 +1,42 @@
+/* home.vue css样式 */
+.el-header {
+  background: linear-gradient(to right,  #90e0ef, #48cae4, #00b4d8, #0096c7, #0077b6, #0077b6);
+}
+
+.el-main {
+  padding: 0px;
+}
+
+/* header.vue css样式 */
+.head-logo {
+  min-width: 100px;
+  height: 59px;
+  background: url('') no-repeat center;
+  background-size: contain;
+  transform: scale(3.5);
+}
+
+.head-box .title {
+  font-size: 26px;
+  color: #fff;
+  line-height: 59px;
+  font-family: '黑体';
+  text-shadow: 1px -4px 15px #666;
+  margin-left: 2rem;
+}
+
+.out-in {
+  color: #fff;
+  text-align: right;
+  line-height: 59px;
+}
+
+.out-in img {
+  height: 40px;
+  padding: 0 5px;
+  vertical-align: middle;
+}
+
+.el-dropdown-link {
+  color: #fff;
+}

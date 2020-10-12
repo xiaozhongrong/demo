@@ -1,0 +1,154 @@
+.mix-card {
+  width: 100%;
+  height: 330px;
+}
+.mix-card2{
+  width: 100%;
+  height: 259px;
+}
+
+.mix-card3{
+  width: 100%;
+  height: 244px;
+  overflow: auto;
+}
+
+/* 停车缴费 */
+.car-info{
+    border:solid 2px #999;
+    box-shadow: 2px 1px 1px #666;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.car-info p{
+    font-size: 14px;
+    line-height: 30px;
+}
+
+/* 安保巡检 */
+.zb-box{
+  text-align: center;
+  line-height: 35px;
+  font-size: 14px;
+}
+.zb-box .title1{
+  background: #5A8BFF;
+  color: #fff;
+}
+.zb-box .title2{
+  background: #7C8394;
+  color: #fff;
+}
+
+/* 物业管理--资产管理 */
+/* .zcxz{
+  text-align: center;
+} */
+
+/* 物业管理--考勤管理 */
+.kqsj{
+  width: 100%;
+  height: 210px;
+  border-radius: 3px;
+  background: url('../img/bg1.png') no-repeat bottom;
+  background-color: #ec407a;
+  background-size: contain;
+  color: #fff;
+  padding: .8em;
+  box-sizing: border-box;
+  font-size: 1.2em;
+  letter-spacing:4px
+}
+.kqsj p{
+  font-size: 1.6rem;
+  margin-top: 1.2rem;
+}
+.kqsj>p>span{
+  color: lightgrey;
+}
+.kqsj :nth-child(2){
+  float: right;
+  right: 1rem;
+}
+
+
+
+.mrkq{
+  width: 100%;
+  height: 210px;
+  border-radius: 3px;
+  background-color: #59C5FA;
+  background-size: contain;
+  color: #fff;
+  padding: .8em;
+  box-sizing: border-box;
+  font-size: 1.2em;
+  letter-spacing:4px
+}
+.mrkq :nth-child(2){
+  float: right;
+  right: 1rem;
+}
+
+.mrkq ul{
+  margin: .8rem;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  width: 100%;
+}
+.mrkq li {
+  list-style: none;
+  width: 50%;
+  float: left;
+  display: block;
+}
+.clear{
+  clear: both;
+}
+.mrkq .schedule{
+  margin-top: 10px;
+}
+.kqtjb{
+  width: 100%;
+  height: 210px;
+  border-radius: 3px;
+  background-color: #fff;
+  background-size: contain;
+  padding: .8em .8em 0 .8em;
+  box-sizing: border-box;
+  font-size: 1.2em;
+}
+.kqtjb :nth-child(2){
+  float: right;
+}
+.kqtjb .census{
+  height: 45%;
+}
+.mix ul{
+  width: 100%;
+}
+.mix li{
+  list-style: none;
+  width: 20%;
+  float: left;
+  display: block;
+  text-align: center;
+  line-height: 1.4rem;
+}
+.mix li p{
+  text-align: right;
+}
+/* 公共样式 */
+.top{
+  color: red;
+}
+.bottom{
+  color: chartreuse;
+}
+/* 表格 */
+.kqbg{
+  margin-top: 20px;
+}

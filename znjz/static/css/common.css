@@ -1,0 +1,93 @@
+/* 搜索框 */
+.search-input {
+  width: 200px;
+}
+
+/* 顶部外边距 */
+.m-top {
+  margin-top: 10px;
+}
+
+.m-top-2{
+  margin-top: 20px;
+}
+/* 左右内边距 */
+.l-padding{
+  padding: 0px 10px;
+}
+.t-padding{
+  padding: 10px 0px;
+}
+
+/* 按钮靠右 */
+.r-btn {
+  float: right;
+}
+/* 居中 */
+.x-center{
+  text-align: center;
+}
+/* 分页靠右 */
+.page {
+  margin-top: 10px;
+  text-align: right;
+}
+
+/* 日期选择框 */
+.date-P.el-input__inner{
+    width: 240px;
+}
+
+/* el-card内边距 */
+.el-card__body{
+  padding: 5px;
+}
+/* el-card__header */
+.el-card__header{
+  /* padding: 8px 20px; */
+}
+
+/* IT管理设备状态 */
+.st-square{
+  cursor: pointer;
+  margin-right: 6px;
+  width: 9px;
+  height: 9px;
+  display:inline-block;
+}
+
+.normal1{
+  background-color: #3bd58d;
+}
+
+.busy{
+  background-color: #edb845;
+}
+
+.danger{
+  background-color: #eb5d5d;
+}
+
+.fault{
+  background-color: #a6a6a6;
+}
+
+/* 弹窗dialog内容高度 */
+.dialog-box{
+  max-height: 600px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.el-dialog__body{
+  padding: 0px 20px 30px 20px;
+}
+
+/* 日期选择器 */
+.normal{
+  background-color: #fff;
+}
+/* el-table */
+.el-table{
+  border-radius:2px;
+}

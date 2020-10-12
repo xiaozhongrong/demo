@@ -1,0 +1,162 @@
+.homepage{
+    background: #F2F6FC;
+    padding: 10px;
+}
+
+.homepage .state-box{
+    height: 80px;
+    width: 100%;
+    border-radius: 3px;
+    position: relative;
+    color: #fff;
+    font-weight: bold;
+}
+
+.homepage .state-box .title{
+    padding: 3px 10px;
+}
+
+.homepage .state-box .val{
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    font-size: 26px;
+}
+
+.color0{
+    background: url('../img/fm_bg.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.color1{
+    background: url('../img/wx_bg.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.color2{
+    background: url('../img/gz_bg.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.lj{
+    font-size: 14px;
+    cursor: pointer;
+    color: #6FC8FA;
+}
+
+.xq-a{
+    color: #6FC8FA;
+    cursor: pointer;
+}
+
+.xj-name ul li{
+    list-style: none;
+    display: inline-table;
+    line-height: 40px;
+    padding: 0px 15px;
+}
+
+.xj-name ul .title{
+    color: #5A8BFF;
+    font-weight: bold;
+}
+.xj-box{
+    /* background: #fff; */
+    width: 100%;
+    height: 80px;
+    border-radius: 3px;
+    box-shadow: 1px 2px 5px #999;
+    position: relative;
+    background: url('../img/zc_bg.png') no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+}
+
+.xj-box .title{
+    padding: 3px 10px;
+}
+
+.xj-box .val{
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.gj-lsjl{
+    float: right;
+    padding-right: 10px;
+    color: #6FC8FA;
+    cursor: pointer;
+    font-size: 14px;
+}
+.gj-lsjl:hover{
+    color: #5A8BFF;
+}
+
+.video-dialog .el-dialog__header{
+    background: #011624;
+}
+
+.video-dialog .el-dialog__body{
+    background: #011624;
+    padding: 2px;
+}
+
+.basics{
+    margin: -20px -20px 0px -20px;
+    background: #0D274D;
+    color: #21CCFB;
+    border: solid 1px #1866B5;
+    font-size: 20px;
+    height: 45px;
+    letter-spacing: 2px;
+    line-height: 45px;
+    padding-left: 20px;
+}
+
+.basics .error{
+    float: right;
+    cursor: pointer;
+    padding: 12px 15px 0px 0px;
+}
+
+.video-cont{
+    border: solid 1px #1866B5;
+    width: 100%;
+    height: 700px;
+}
+
+.video-cont i{
+    display: block;
+    height: 20px;
+    width: 20px;
+    font-size: 28px;
+    color: #00B4FF;
+    position: absolute;
+}
+
+.video-cont .left{
+    transform: rotate(45deg);
+    left: 2px;
+    top: 44px;
+}
+
+.video-cont .right{
+    transform: rotate(-45deg);
+    right: 5px;
+    top: 49px;
+}
+
+.video-cont .top{
+    transform: rotate(135deg);
+    right: -7px;
+    bottom: 2px;
+}
+
+.video-cont .bottom{
+    transform: rotate(45deg);
+    left: 2px;
+    bottom: 7px;
+}

@@ -1,0 +1,275 @@
+{
+  "id": "2038873",
+  "name": "智能建筑",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "无",
+  "glyphs": [
+    {
+      "icon_id": "1362580",
+      "name": "考勤 ",
+      "font_class": "kaoqin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1530116",
+      "name": "物业租赁",
+      "font_class": "wuyezulin",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "1564005",
+      "name": "停车缴费",
+      "font_class": "tingchejiaofei",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1737960",
+      "name": "一卡通",
+      "font_class": "yiqiatong",
+      "unicode": "e95c",
+      "unicode_decimal": 59740
+    },
+    {
+      "icon_id": "2608868",
+      "name": "园区",
+      "font_class": "yuanqu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2718961",
+      "name": "统计报表",
+      "font_class": "tongjibaobiao",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "2807939",
+      "name": "IT服务",
+      "font_class": "itservice",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3500295",
+      "name": "多媒体",
+      "font_class": "duomeiti",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "3707211",
+      "name": "缴费管理",
+      "font_class": "jiaofeiguanli",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "4557129",
+      "name": "大屏管理",
+      "font_class": "ziyuan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6304584",
+      "name": "服务器",
+      "font_class": "fuwuqi",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "6944939",
+      "name": "电梯",
+      "font_class": "elevator",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "6993337",
+      "name": "物业管理",
+      "font_class": "wuyeguanli",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7091088",
+      "name": "it",
+      "font_class": "xingzhuang",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7117115",
+      "name": "运营",
+      "font_class": "yunying",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "8125113",
+      "name": "安保",
+      "font_class": "anbao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8176671",
+      "name": "机房",
+      "font_class": "jifang",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "9051041",
+      "name": "告警管理",
+      "font_class": "gaojingguanli",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9373450",
+      "name": "物业保修",
+      "font_class": "ziyuan1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "10360695",
+      "name": "统计报表",
+      "font_class": "tongjibaobiao1",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "10550927",
+      "name": "多媒体",
+      "font_class": "duomeiti1",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "10553744",
+      "name": "服务器",
+      "font_class": "fuwuqi1",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "10666006",
+      "name": "设备管理",
+      "font_class": "shebeiguanli",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "10787785",
+      "name": "合同管理",
+      "font_class": "hetongguanli",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11402126",
+      "name": "消防",
+      "font_class": "xiaofang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12035745",
+      "name": "信息发布",
+      "font_class": "xinxifabu",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "12829410",
+      "name": "停车场管理",
+      "font_class": "tingchechangguanli",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "12997188",
+      "name": "交换机",
+      "font_class": "jiaohuanji",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "13312710",
+      "name": "系统设置",
+      "font_class": "shezhi",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "13676454",
+      "name": "消防报警",
+      "font_class": "xiaofangbaojing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13979908",
+      "name": "告警管理",
+      "font_class": "gaojingguanli1",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "14103502",
+      "name": "视频监控",
+      "font_class": "shipinjiankong",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "14358608",
+      "name": "安保人员",
+      "font_class": "anbaorenyuan",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "14383055",
+      "name": "视频监控",
+      "font_class": "jiankong",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "14405140",
+      "name": "信息发布",
+      "font_class": "24",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "15342169",
+      "name": "物业管理",
+      "font_class": "ziyuan8",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15480393",
+      "name": "资产管理",
+      "font_class": "zichanguanli-",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16672879",
+      "name": "资产管理",
+      "font_class": "ziyuan21",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}

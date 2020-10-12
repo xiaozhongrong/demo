@@ -1,0 +1,43 @@
+.menu-box{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  background: #fff;
+  border: none;
+}
+/* 左侧导航栏 */
+.el-menu{
+  border: none;
+  color: #303133;
+}
+.el-menu i{
+  color: #909399;
+}
+
+.el-menu-item{
+  width: auto;
+  min-width: 200px;
+}
+
+/* 顶部导航 */
+.top-nav{
+  cursor: pointer;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 5px;
+  position: relative;
+}
+
+#tab-11 .el-icon-close{
+  display: none;
+}
+
+.asideMenu{
+  box-shadow: 1px -4px 15px #666;
+  overflow-x: hidden;
+}
+
+/* 下拉菜单 */
+.el-dropdown-menu{
+    margin: 0px;
+}
